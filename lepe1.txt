@@ -1,0 +1,19 @@
+project and lesson overview
+1. worldColage
+Display a word collage on the screen with buttons to change colors.
+Learning outcomes include:
+• Running and modifying an iOS app
+• Gaining a comfort level with Xcode
+• Apply Auto Layout constraints to create adaptive user interfaces
+• Discovering how to connect user interface controls to controller
+code
+• Understanding the tools and technologies used to create iOS apps
+2. SpaceAdvanture
+Spend time learning Swift by creating an exploration of the solar system.
+Learning outcomes include:
+• Practicing the fundamentals of Swift syntax
+• Understanding object-oriented programming with Swift
+• Defning classes, working with objects and calling methods
+• Discovering Swift datatypes and collections
+• Analyzing code quality, and discovering advanced Swift topics
+
